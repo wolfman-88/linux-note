@@ -208,7 +208,7 @@ nmap nt :NERDTreeToggle<CR>
 """"""""""""""""""""""""""""
 "let g:DoxygenToolkit_blockHeader="*****************************************"
 "let g:DoxygenToolkit_blockFooter="*****************************************"
-let g:DoxygenToolkit_authorName="yanying yinyan2@cisco.com"
+let g:DoxygenToolkit_authorName=""
 
 
 """""""""""""""""""""""""
